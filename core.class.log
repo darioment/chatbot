@@ -1,0 +1,1116 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF8C167BB1738616B92',
+    participant: undefined
+  },
+  messageTimestamp: 1729629935,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenas',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD9877E809FF0611D10',
+    participant: undefined
+  },
+  messageTimestamp: 1729629954,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te reenvío la plática con esta clienta amiga mía',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Te reenvío la plática con esta clienta amiga mía',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9196DE330810C585D0',
+    participant: undefined
+  },
+  messageTimestamp: 1729629983,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hay otras soluciones más complejas y por supuesto los precios son Muy diferentes, todo depende de lo que tienes y lo que necesitas, y lo que en teoría podrías lograr hasta operar de manera eficiente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hay otras soluciones más complejas y por supuesto los precios son Muy diferentes, todo depende de lo que tienes y lo que necesitas, y lo que en teoría podrías lograr hasta operar de manera eficiente',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A674EDA4194814161C1',
+    participant: undefined
+  },
+  messageTimestamp: 1729629983,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenas tardes señor Luis .',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Buenas tardes señor Luis .',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '81995C2D7E1C06C0A4CC1844C487B3F9',
+    participant: undefined
+  },
+  messageTimestamp: 1729630741,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Umm yo creo conte más',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Umm yo creo conte más',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '19CF0B360F8EB2D4977AF0062912E3E1',
+    participant: undefined
+  },
+  messageTimestamp: 1729630815,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: 'A OK si como asi me los pediste',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'A OK si como asi me los pediste',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: 'A3E669F0EB80469F42A02754C984AD83',
+    participant: undefined
+  },
+  messageTimestamp: 1729630831,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero bueno no hay tema sigo atento la idea es seguir trabajando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Pero bueno no hay tema sigo atento la idea es seguir trabajando',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '04688081C94EB927D8053E0578DFB6C5',
+    participant: undefined
+  },
+  messageTimestamp: 1729630916,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si creo así lo envié porque me lo pediste así',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si creo así lo envié porque me lo pediste así',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '880C32AF5C6C342D4279FBED46616926',
+    participant: undefined
+  },
+  messageTimestamp: 1729630930,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si no hay tema tu eres el.experto',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si no hay tema tu eres el.experto',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '643BCA9C05DFBC391674FE92DFBF72C8',
+    participant: undefined
+  },
+  messageTimestamp: 1729631015,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Perfecto',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Perfecto',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '9C59A2C074F108FC81DAAD1EFF00C0DC',
+    participant: undefined
+  },
+  messageTimestamp: 1729631028,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Vale esta bien',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Vale esta bien',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '97E358867B2230B2B5F5577A3D4CF431',
+    participant: undefined
+  },
+  messageTimestamp: 1729631055,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si la.ides es hacerla amigable sencilla qué ya vez es para cotizar casi casi las pruebas que hice me tardo 1 minuto ws una maravilla',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si la.ides es hacerla amigable sencilla qué ya vez es para cotizar casi casi las pruebas que hice me tardo 1 minuto ws una maravilla',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6821166AD363039EF0',
+    participant: undefined
+  },
+  messageTimestamp: 1729631098,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Lee con atención y estamos en contacto',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Lee con atención y estamos en contacto',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A55D3BA182601B0B347',
+    participant: undefined
+  },
+  messageTimestamp: 1729631099,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Mandé informes de costos 🙏',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Mandé informes de costos 🙏',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB08DF59FEB23E3B8A0',
+    participant: undefined
+  },
+  messageTimestamp: 1729631099,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aquí tienes mi correo lroldan@outlook.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Aquí tienes mi correo lroldan@outlook.com',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1C7C16B4FB4D1B3892',
+    participant: undefined
+  },
+  messageTimestamp: 1729631099,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Eso depende del tipo de solución que requieras , analizamos lo que haces y te sugerimos más bien es hacerte un traje a la medida de tus necesidades.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Eso depende del tipo de solución que requieras , analizamos lo que haces y te sugerimos más bien es hacerte un traje a la medida de tus necesidades.',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF7909C1AFA1235E50F',
+    participant: undefined
+  },
+  messageTimestamp: 1729631405,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Es posible, pero no me cambies la jugada ahorita, ya lo ofrecí; vamos a ver que envía y vemos que responder',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Es posible, pero no me cambies la jugada ahorita, ya lo ofrecí; vamos a ver que envía y vemos que responder',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD08E95A59F9E02EC88FCB66528CBA43',
+    participant: undefined
+  },
+  messageTimestamp: 1729631457,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sigo atento hermano muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sigo atento hermano muchas gracias',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A472F995B908D0124EB',
+    participant: undefined
+  },
+  messageTimestamp: 1729631508,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Alguna vez te pregunté si era propiedad de zíngara y dijiste que no pero de momento no lo ibas a ofrecer si acaso algo similar adaptándolo al cliente, recuerdas?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Alguna vez te pregunté si era propiedad de zíngara y dijiste que no pero de momento no lo ibas a ofrecer si acaso algo similar adaptándolo al cliente, recuerdas?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: '611424950E936C54496D36139E29BE45',
+    participant: undefined
+  },
+  messageTimestamp: 1729631545,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Apilador electrico\n' +
+      'Apilador Manual \n' +
+      'Patin hidraulico standard\n' +
+      'Apilador semielectrico \n' +
+      'Racks',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Apilador electrico\n' +
+    'Apilador Manual \n' +
+    'Patin hidraulico standard\n' +
+    'Apilador semielectrico \n' +
+    'Racks',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: 'B0020D2B4EB635CDD9C21E593F701251',
+    participant: undefined
+  },
+  messageTimestamp: 1729631707,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/34599507_579365854441576_372686067455580940_n.enc?ccb=11-4&oh=01_Q5AaIOodhpWWZ7lJhOPaYpVKswT-ucmQvIrf0u5NrTCxz5Rj&oe=673F8637&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 26,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/34599507_579365854441576_372686067455580940_n.enc?ccb=11-4&oh=01_Q5AaIOodhpWWZ7lJhOPaYpVKswT-ucmQvIrf0u5NrTCxz5Rj&oe=673F8637&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_voice_note__856e786b-66fe-4d2f-8d67-1db1bd5dcf9a',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549915436@s.whatsapp.net',
+    fromMe: false,
+    id: 'A2F555C26E7917755EF898CF5CAEBAC8',
+    participant: undefined
+  },
+  messageTimestamp: 1729631757,
+  pushName: 'J.Arias🕵️‍♂️',
+  broadcast: false,
+  message: Message {
+    conversation: '🤛',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '🤛',
+  from: '5215549915436'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACBB72D376D4795C25F',
+    participant: undefined
+  },
+  messageTimestamp: 1729632117,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok, pues me parece muy bien, darle forma para dejarlo listo para ofrecer.\n' +
+      'Ayer platiqué con un señor dueño de ferretería sobre precisamente control de inventarios, no supo decirme el nombre de lo que utiliza',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ok, pues me parece muy bien, darle forma para dejarlo listo para ofrecer.\n' +
+    'Ayer platiqué con un señor dueño de ferretería sobre precisamente control de inventarios, no supo decirme el nombre de lo que utiliza',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215527252080@s.whatsapp.net',
+    fromMe: false,
+    id: '09EC0C00E6329E8334A350A5A29F7F92',
+    participant: undefined
+  },
+  messageTimestamp: 1729634548,
+  pushName: 'Toñazo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias MI Javis voy!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Gracias MI Javis voy!',
+  from: '5215527252080'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7794A9B5216AACA701',
+    participant: undefined
+  },
+  messageTimestamp: 1729634843,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Oye al amigo aquel de una zapatería vaquera con sombreros y algunos accesorios le podría ofrecer lo mismo que a la anterior?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Oye al amigo aquel de una zapatería vaquera con sombreros y algunos accesorios le podría ofrecer lo mismo que a la anterior?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A401E0067D14A543A23',
+    participant: undefined
+  },
+  messageTimestamp: 1729636232,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es para multitiendas nada más vdd?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Es para multitiendas nada más vdd?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6E3B648B469528CA75',
+    participant: undefined
+  },
+  messageTimestamp: 1729638108,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Y para tiendas únicas?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Y para tiendas únicas?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18772241042@s.whatsapp.net',
+    fromMe: false,
+    id: 'D04D372719824C806B',
+    participant: undefined
+  },
+  messageTimestamp: 1729641477,
+  pushName: '18772241042',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '18772241042'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18772241042@s.whatsapp.net',
+    fromMe: false,
+    id: 'D04D372719824C806B',
+    participant: undefined
+  },
+  messageTimestamp: 1729641478,
+  pushName: '18772241042',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para los pequeños negocios, los servicios más comunes de una agencia de inteligencia artificial podrían incluir:\n' +
+      '\n' +
+      '1. **Automatización de tareas**: Ayuda a ahorrar tiempo en tareas repetitivas y administrativas.\n' +
+      '2. **Marketing digital**: Utilizar IA para optimizar campañas publicitarias y segmentar audiencias de manera más efectiva.\n' +
+      '3. **Análisis de datos**: Proporcionar insights valiosos sobre el comportamiento de los clientes y tendencias del mercado.\n' +
+      '4. **Asistentes virtuales**: Mejorar el servicio al cliente con chatbots que resuelvan preguntas frecuentes.\n' +
+      '\n' +
+      'Todo para darles ventaja y simplificar su carga de trabajo. 🚀',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Microsoft Copilot',
+  body: 'Para los pequeños negocios, los servicios más comunes de una agencia de inteligencia artificial podrían incluir:\n' +
+    '\n' +
+    '1. **Automatización de tareas**: Ayuda a ahorrar tiempo en tareas repetitivas y administrativas.\n' +
+    '2. **Marketing digital**: Utilizar IA para optimizar campañas publicitarias y segmentar audiencias de manera más efectiva.\n' +
+    '3. **Análisis de datos**: Proporcionar insights valiosos sobre el comportamiento de los clientes y tendencias del mercado.\n' +
+    '4. **Asistentes virtuales**: Mejorar el servicio al cliente con chatbots que resuelvan preguntas frecuentes.\n' +
+    '\n' +
+    'Todo para darles ventaja y simplificar su carga de trabajo. 🚀',
+  from: '18772241042'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18772241042@s.whatsapp.net',
+    fromMe: false,
+    id: 'D04D372719824C806B',
+    participant: undefined
+  },
+  messageTimestamp: 1729641478,
+  pushName: '18772241042',
+  broadcast: false,
+  verifiedBizName: 'Microsoft Copilot',
+  message: Message {
+    conversation: 'Para los pequeños negocios, los servicios más comunes de una agencia de inteligencia artificial podrían incluir:\n' +
+      '\n' +
+      '1. **Automatización de tareas**: Ayuda a ahorrar tiempo en tareas repetitivas y administrativas.\n' +
+      '2. **Marketing digital**: Utilizar IA para optimizar campañas publicitarias y segmentar audiencias de manera más efectiva.\n' +
+      '3. **Análisis de datos**: Proporcionar insights valiosos sobre el comportamiento de los clientes y tendencias del mercado.\n' +
+      '4. **Asistentes virtuales**: Mejorar el servicio al cliente con chatbots que resuelvan preguntas frecuentes.\n' +
+      '\n' +
+      'Todo para darles ventaja y simplificar su carga de trabajo. 🚀',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Para los pequeños negocios, los servicios más comunes de una agencia de inteligencia artificial podrían incluir:\n' +
+    '\n' +
+    '1. **Automatización de tareas**: Ayuda a ahorrar tiempo en tareas repetitivas y administrativas.\n' +
+    '2. **Marketing digital**: Utilizar IA para optimizar campañas publicitarias y segmentar audiencias de manera más efectiva.\n' +
+    '3. **Análisis de datos**: Proporcionar insights valiosos sobre el comportamiento de los clientes y tendencias del mercado.\n' +
+    '4. **Asistentes virtuales**: Mejorar el servicio al cliente con chatbots que resuelvan preguntas frecuentes.\n' +
+    '\n' +
+    'Todo para darles ventaja y simplificar su carga de trabajo. 🚀',
+  from: '18772241042'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A542A83992E8DFC1BED',
+    participant: undefined
+  },
+  messageTimestamp: 1729641636,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Este es el que ya tienes?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Este es el que ya tienes?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADE2A08AA8AE2E85E04',
+    participant: undefined
+  },
+  messageTimestamp: 1729641657,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Y este también?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Y este también?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC9711CFFC59126FDA5',
+    participant: undefined
+  },
+  messageTimestamp: 1729641725,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Esta es la respuesta de un chat de IA sobre cómo sugiere, pero no lo tienes desarrollado supongo',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Esta es la respuesta de un chat de IA sobre cómo sugiere, pero no lo tienes desarrollado supongo',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3ADDBF8D9266199EB1D1',
+    participant: undefined
+  },
+  messageTimestamp: 1729641793,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ese ya habíamos platicado con el, pero su Hija estudió y la solución que le diseñó ella le daba cargo de conciencia cambiarla, pero esa opción que me dices si la puedo proponer',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ese ya habíamos platicado con el, pero su Hija estudió y la solución que le diseñó ella le daba cargo de conciencia cambiarla, pero esa opción que me dices si la puedo proponer',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A15872B474E72DD0E98',
+    participant: undefined
+  },
+  messageTimestamp: 1729641900,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Le damos la página y la podemos manejar?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Le damos la página y la podemos manejar?',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5EBB5BF3765D8380EE',
+    participant: undefined
+  },
+  messageTimestamp: 1729642039,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ofrecerle el mismo análisis que a mi amiga y sugerir soluciones para optimizar inventarios y generar mayor rotación y ventas? \n' +
+      'Me parece que sería un muy buen laboratorio de pruebas y luego replicarlo con otros que conozco',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ofrecerle el mismo análisis que a mi amiga y sugerir soluciones para optimizar inventarios y generar mayor rotación y ventas? \n' +
+    'Me parece que sería un muy buen laboratorio de pruebas y luego replicarlo con otros que conozco',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215524678755@s.whatsapp.net',
+    fromMe: false,
+    id: '3FCA18480CC379756412D0A0D73A316E',
+    participant: undefined
+  },
+  messageTimestamp: 1729642377,
+  pushName: 'Enrique Vázquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bien estimado Dario',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Bien estimado Dario',
+  from: '5215524678755'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549433430@s.whatsapp.net',
+    fromMe: false,
+    id: 'AD2813C8C5A52F52658D55C06FC5C37A',
+    participant: undefined
+  },
+  messageTimestamp: 1729644445,
+  pushName: 'Juan Carrasco',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bien y tu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Bien y tu',
+  from: '5215549433430'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549433430@s.whatsapp.net',
+    fromMe: false,
+    id: '88A97292DD5813B47232A4C731658BBA',
+    participant: undefined
+  },
+  messageTimestamp: 1729644451,
+  pushName: 'Juan Carrasco',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo estás darisaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cómo estás darisaa',
+  from: '5215549433430'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549433430@s.whatsapp.net',
+    fromMe: false,
+    id: '3BBA5067CD7DD9626CF4941A7FF3D0E7',
+    participant: undefined
+  },
+  messageTimestamp: 1729644454,
+  pushName: 'Juan Carrasco',
+  broadcast: false,
+  message: Message {
+    conversation: 'Darisssss',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Darisssss',
+  from: '5215549433430'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549433430@s.whatsapp.net',
+    fromMe: false,
+    id: '9938D45833BE5CF33436C41E07D352A7',
+    participant: undefined
+  },
+  messageTimestamp: 1729644464,
+  pushName: 'Juan Carrasco',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que cuentas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Que cuentas',
+  from: '5215549433430'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215549433430@s.whatsapp.net',
+    fromMe: false,
+    id: '655F3F5DE2B17452C78753A952BD9D8C',
+    participant: undefined
+  },
+  messageTimestamp: 1729649355,
+  pushName: 'Juan Carrasco',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ok ok',
+  from: '5215549433430'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0779AE127EC39573BA',
+    participant: undefined
+  },
+  messageTimestamp: 1729651606,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    videoMessage: VideoMessage {
+      interactiveAnnotations: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7161-24/23960486_1213440816545973_2877090677476568623_n.enc?ccb=11-4&oh=01_Q5AaIDdKLuHiSAT5mzwrZHsQnQg9loQs7ss1H4o6ykRI8x78&oe=673F13F7&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'video/mp4',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 123,
+      mediaKey: [Uint8Array],
+      height: 480,
+      width: 480,
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7161-24/23960486_1213440816545973_2877090677476568623_n.enc?ccb=11-4&oh=01_Q5AaIDdKLuHiSAT5mzwrZHsQnQg9loQs7ss1H4o6ykRI8x78&oe=673F13F7&_nc_sid=5e03e0&_nc_hot=1729614444',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      streamingSidecar: Uint8Array(0) []
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__c051cf06-33dd-40c5-a151-abebe6982c92',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215561141109@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6714994D705A03D733',
+    participant: undefined
+  },
+  messageTimestamp: 1729651834,
+  pushName: 'Luis Roldán V',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/23526919_1066171795518382_8369932361004145973_n.enc?ccb=11-4&oh=01_Q5AaIIRp1fNjSIPrfqdS6MrEjNJgUip_sgQ5VYrAzKBVXX_H&oe=673FC0A6&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Hoy es el día de bendecir a las personas que aprecias. Te bendigo con todo mi cariño. Con toda mi admiración. Con todo mi respeto. Bendigo tu vida. Bendigo tu salud. Bendigo tu economía. Bendita sea tu casa, bendiciones al entrar y bendiciones al salir. Bendigo tu trabajo. Bendigo tu vida espiritual. Bendigo todos tus proyectos y propósitos para estos últimos 3 meses del año 2024. Oremos para que siempre sea así. Hoy es “el día de la bendición”. Se recomienda bendecir a la mayor cantidad de personas posibles con todo el corazón. Mientras más bendigas, más bendiciones llegarán a ti y a tu familia. Estoy feliz de bendecir tu vida hoy. Día de bendiciones....  Por favor envíaselo a quien quieras bendecir!!! 🙏',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1260,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/23526919_1066171795518382_8369932361004145973_n.enc?ccb=11-4&oh=01_Q5AaIIRp1fNjSIPrfqdS6MrEjNJgUip_sgQ5VYrAzKBVXX_H&oe=673FC0A6&_nc_sid=5e03e0&_nc_hot=1729651833',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__091037dd-f28b-4326-980d-fa834e567d8f',
+  from: '5215561141109'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233612620@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB093CCCD1A3007397327',
+    participant: undefined
+  },
+  messageTimestamp: 1729688298,
+  pushName: 'Verzay Oficial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Bienvenido/a A *Verzay* 🤖\n' +
+        '\n' +
+        'Expertos en *Chatbots*, que interpretan audios, imágenes, mantienen el contexto, envío de archivos, botones, listas, toma pedidos, agenda citas, captura datos, recordatorios, seguimientos y más.\n' +
+        '\n' +
+        '*¿Si te interesa?*, indícanos tu nombre para continuar...'
+    }
+  },
+  verifiedBizName: 'Verzay Oficial',
+  body: 'Bienvenido/a A *Verzay* 🤖\n' +
+    '\n' +
+    'Expertos en *Chatbots*, que interpretan audios, imágenes, mantienen el contexto, envío de archivos, botones, listas, toma pedidos, agenda citas, captura datos, recordatorios, seguimientos y más.\n' +
+    '\n' +
+    '*¿Si te interesa?*, indícanos tu nombre para continuar...',
+  from: '573233612620'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573233612620@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A6B8632403A990885F',
+    participant: undefined
+  },
+  messageTimestamp: 1729688323,
+  pushName: 'Verzay Oficial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🤖 *Asistente Verzy*\n' +
+        'Los precios del CRM son los siguientes:\n' +
+        '\n' +
+        '📨 *CRM Masivos*: \n' +
+        '👉 *$19.50* USD al mes.\n' +
+        '\n' +
+        '💠 *CRM Multicanal*: \n' +
+        '👉 *$29.50* USD al mes.\n' +
+        '\n' +
+        '👫 *CRM Multiagente*: \n' +
+        '👉 *$49.50* USD al mes.\n' +
+        '\n' +
+        '*¿Te gustaría más información sobre alguno de ellos?*'
+    }
+  },
+  verifiedBizName: 'Verzay Oficial',
+  body: '🤖 *Asistente Verzy*\n' +
+    'Los precios del CRM son los siguientes:\n' +
+    '\n' +
+    '📨 *CRM Masivos*: \n' +
+    '👉 *$19.50* USD al mes.\n' +
+    '\n' +
+    '💠 *CRM Multicanal*: \n' +
+    '👉 *$29.50* USD al mes.\n' +
+    '\n' +
+    '👫 *CRM Multiagente*: \n' +
+    '👉 *$49.50* USD al mes.\n' +
+    '\n' +
+    '*¿Te gustaría más información sobre alguno de ellos?*',
+  from: '573233612620'
+}
